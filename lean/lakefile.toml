@@ -1,0 +1,7 @@
+name = "PurityBootstrap"
+version = "1.0.0"
+defaultTargets = ["PurityBootstrap"]
+
+[[lean_lib]]
+name = "PurityBootstrap"
+roots = ["PurityBootstrap"]

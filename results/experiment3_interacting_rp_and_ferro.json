@@ -1,0 +1,281 @@
+{
+  "bond_rp_diagnostics_L4_beta1": {
+    "spin1_aklt_c_plus_1_3": {
+      "det_J": 0.019051973784484005,
+      "min_eig_M_Uy": -0.3333333333333334,
+      "G_bond_min_eig": -0.5015940110620815,
+      "G_bond_max_eig": 15.047782300576245,
+      "is_bond_rp": false
+    },
+    "spin1_heisenberg_D0": {
+      "det_J": 0.0,
+      "min_eig_M_Uy": -1.6653345369377348e-16,
+      "G_bond_min_eig": 1.614329230936073,
+      "G_bond_max_eig": 296.550692751395,
+      "is_bond_rp": true
+    },
+    "spin1_heisenberg_D6": {
+      "det_J": 0.0,
+      "min_eig_M_Uy": -1.6653345369377348e-16,
+      "G_bond_min_eig": 0.00010852561569061512,
+      "G_bond_max_eig": 2.0189801353082593,
+      "is_bond_rp": true
+    },
+    "spin1_neg_biquad_c_minus_0p5": {
+      "det_J": -0.48828124999999867,
+      "min_eig_M_Uy": 0.49999999999999956,
+      "G_bond_min_eig": 1747.4938095016603,
+      "G_bond_max_eig": 68785.21782032425,
+      "is_bond_rp": true
+    },
+    "spinhalf_dimerized_delta0p5": {
+      "G_bond_min_eig": 0.08645126368044784,
+      "G_bond_max_eig": 11.396193162755832,
+      "is_bond_rp": true
+    }
+  },
+  "spin1_heisenberg_anisotropy_L4": [
+    {
+      "D": 4.0,
+      "beta0": 2.0,
+      "gap_L8": 2.273924193736079,
+      "S0": 0.7421910131498376,
+      "T0": 0.9474235008181667,
+      "Q0": 0.5218858668672974,
+      "certified_ours_exact_Q": false,
+      "Delta_cert_ours": 0.0,
+      "certified_grover": false,
+      "Delta_cert_grover": 0.0
+    },
+    {
+      "D": 4.5,
+      "beta0": 2.0,
+      "gap_L8": 2.7406874744545675,
+      "S0": 0.8031645952863534,
+      "T0": 0.978266456980218,
+      "Q0": 0.6310536373462413,
+      "certified_ours_exact_Q": true,
+      "Delta_cert_ours": 0.113976891715,
+      "certified_grover": false,
+      "Delta_cert_grover": 0.0
+    },
+    {
+      "D": 5.0,
+      "beta0": 2.0,
+      "gap_L8": 3.2149463942830643,
+      "S0": 0.8485542229332949,
+      "T0": 0.9913062632637217,
+      "Q0": 0.7137843939425336,
+      "certified_ours_exact_Q": true,
+      "Delta_cert_ours": 0.397403070915,
+      "certified_grover": false,
+      "Delta_cert_grover": 0.0
+    },
+    {
+      "D": 5.5,
+      "beta0": 2.0,
+      "gap_L8": 3.6942960507490055,
+      "S0": 0.8820213560095355,
+      "T0": 0.9965893628049042,
+      "Q0": 0.7753083274404593,
+      "certified_ours_exact_Q": true,
+      "Delta_cert_ours": 0.572711894816,
+      "certified_grover": false,
+      "Delta_cert_grover": 0.0
+    },
+    {
+      "D": 6.0,
+      "beta0": 2.0,
+      "gap_L8": 4.177304872681761,
+      "S0": 0.906828034465812,
+      "T0": 0.9986786935578063,
+      "Q0": 0.8212505248062607,
+      "certified_ours_exact_Q": true,
+      "Delta_cert_ours": 0.72445327312,
+      "certified_grover": false,
+      "Delta_cert_grover": 0.0
+    },
+    {
+      "D": 7.0,
+      "beta0": 2.0,
+      "gap_L8": 5.150920762456267,
+      "S0": 0.9395482392617281,
+      "T0": 0.9998064293400699,
+      "Q0": 0.8825800192267275,
+      "certified_ours_exact_Q": true,
+      "Delta_cert_ours": 0.95386906184,
+      "certified_grover": false,
+      "Delta_cert_grover": 0.0
+    },
+    {
+      "D": 8.0,
+      "beta0": 2.0,
+      "gap_L8": 6.131348592767448,
+      "S0": 0.9588980171989203,
+      "T0": 0.9999722264248462,
+      "Q0": 0.919459869990956,
+      "certified_ours_exact_Q": true,
+      "Delta_cert_ours": 1.165125839073,
+      "certified_grover": false,
+      "Delta_cert_grover": 0.0
+    }
+  ],
+  "spinhalf_dimerized_heisenberg_L6": [
+    {
+      "delta": 0.3,
+      "beta0": 6.0,
+      "gap_L12": 0.8168504950598869,
+      "S0": 0.7369637784561295,
+      "T0": 0.9393803134779429,
+      "Q0": 0.5101921126870504,
+      "certified_ours_exact_Q": false,
+      "Delta_cert_ours": 0.0,
+      "certified_grover": false,
+      "Delta_cert_grover": 0.0
+    },
+    {
+      "delta": 0.35,
+      "beta0": 6.0,
+      "gap_L12": 0.9128184066342735,
+      "S0": 0.8047105436184284,
+      "T0": 0.9629806394959673,
+      "Q0": 0.6235868367574986,
+      "certified_ours_exact_Q": true,
+      "Delta_cert_ours": 0.016107193592,
+      "certified_grover": false,
+      "Delta_cert_grover": 0.0
+    },
+    {
+      "delta": 0.4,
+      "beta0": 6.0,
+      "gap_L12": 1.0069456337706102,
+      "S0": 0.8593682566902218,
+      "T0": 0.9771829349691943,
+      "Q0": 0.7216630831921982,
+      "certified_ours_exact_Q": true,
+      "Delta_cert_ours": 0.13607783187,
+      "certified_grover": false,
+      "Delta_cert_grover": 0.0
+    },
+    {
+      "delta": 0.45,
+      "beta0": 6.0,
+      "gap_L12": 1.0990171975586307,
+      "S0": 0.9015962848638179,
+      "T0": 0.9857495692293946,
+      "Q0": 0.8012920296996686,
+      "certified_ours_exact_Q": true,
+      "Delta_cert_ours": 0.217122291554,
+      "certified_grover": false,
+      "Delta_cert_grover": 0.0
+    },
+    {
+      "delta": 0.5,
+      "beta0": 6.0,
+      "gap_L12": 1.1890182824109203,
+      "S0": 0.9331169468993515,
+      "T0": 0.9909654889934467,
+      "Q0": 0.8628408224783023,
+      "certified_ours_exact_Q": true,
+      "Delta_cert_ours": 0.286338666894,
+      "certified_grover": false,
+      "Delta_cert_grover": 0.0
+    },
+    {
+      "delta": 0.55,
+      "beta0": 6.0,
+      "gap_L12": 1.2770304168470599,
+      "S0": 0.9559604876159722,
+      "T0": 0.9941817820717176,
+      "Q0": 0.9085434146062371,
+      "certified_ours_exact_Q": true,
+      "Delta_cert_ours": 0.363936367012,
+      "certified_grover": false,
+      "Delta_cert_grover": 0.0
+    },
+    {
+      "delta": 0.6,
+      "beta0": 6.0,
+      "gap_L12": 1.3631763670508814,
+      "S0": 0.9720570240913584,
+      "T0": 0.9961931501633028,
+      "Q0": 0.9412977852491495,
+      "certified_ours_exact_Q": true,
+      "Delta_cert_ours": 0.444227555701,
+      "certified_grover": false,
+      "Delta_cert_grover": 0.0
+    }
+  ],
+  "heisenberg_spin1_L4_diagnostic": {
+    "L0": 4,
+    "beta0": 8.0,
+    "gap_L4": 0.9999999999999956,
+    "gap_L8": 0.5935552543752873,
+    "S0": 0.0050888958344586024,
+    "T0": 0.9501720068404876,
+    "certified_at_L0_4": false,
+    "note": "Strictly bond-RP (G_bond min_eig = +1.614), but L0=4 < xi ~ 6.03 sites so S(4,8) < 0.5; larger L0 is required for isotropic Spin-1 Heisenberg."
+  },
+  "ferromagnetic_tfim_g2": [
+    {
+      "h_ferro": 0.4,
+      "Delta_kink_dual_exact": 1.2,
+      "Delta_PBC_twokink_exact": 2.4,
+      "S_dual": 0.9986837370629512,
+      "T_dual": 0.9507613551368891,
+      "certified_exact_Q": true,
+      "Delta_dual_cert": 0.52583061808975,
+      "exact_splitting_rate_neg_log_h": 0.916290731874155,
+      "measured_splittings": {
+        "8": 0.00025558650635275625,
+        "12": 5.2286785376054464e-06,
+        "16": 1.1468358138699841e-07
+      }
+    },
+    {
+      "h_ferro": 0.5,
+      "Delta_kink_dual_exact": 1.0,
+      "Delta_PBC_twokink_exact": 2.0,
+      "S_dual": 0.9924015472409116,
+      "T_dual": 0.912922870960769,
+      "certified_exact_Q": true,
+      "Delta_dual_cert": 0.3573257372025,
+      "exact_splitting_rate_neg_log_h": 0.6931471805599453,
+      "measured_splittings": {
+        "8": 0.0014558475007731887,
+        "12": 7.246878689812775e-05,
+        "16": 3.873567612799888e-06
+      }
+    },
+    {
+      "h_ferro": 0.6,
+      "Delta_kink_dual_exact": 0.8,
+      "Delta_PBC_twokink_exact": 1.6,
+      "S_dual": 0.9694411937457282,
+      "T_dual": 0.8479199748883482,
+      "certified_exact_Q": true,
+      "Delta_dual_cert": 0.14871251247525,
+      "exact_splitting_rate_neg_log_h": 0.5108256237659907,
+      "measured_splittings": {
+        "8": 0.005884973029556306,
+        "12": 0.0006043354405392165,
+        "16": 6.67961423999941e-05
+      }
+    },
+    {
+      "h_ferro": 0.7,
+      "Delta_kink_dual_exact": 0.6000000000000001,
+      "Delta_PBC_twokink_exact": 1.2000000000000002,
+      "S_dual": 0.9088703843727197,
+      "T_dual": 0.7461372821172819,
+      "certified_exact_Q": false,
+      "Delta_dual_cert": 0.0,
+      "exact_splitting_rate_neg_log_h": 0.35667494393873245,
+      "measured_splittings": {
+        "8": 0.018566953033280244,
+        "12": 0.003502244837952162,
+        "16": 0.0007138902217008081
+      }
+    }
+  ]
+}

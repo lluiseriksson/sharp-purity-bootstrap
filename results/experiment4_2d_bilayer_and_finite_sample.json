@@ -1,0 +1,144 @@
+{
+  "d2_certificates_vs_grover": [
+    {
+      "defect_1_minus_Q0": 0.001,
+      "p_uniform": 0.9998570815947251,
+      "certified_ours_exact_Q": true,
+      "Delta_cert_ours_times_beta0": 5.705727521468,
+      "N_steps": 2,
+      "certified_grover_2d": true,
+      "Delta_cert_grover_times_beta0": 0.6931471805599453
+    },
+    {
+      "defect_1_minus_Q0": 0.005,
+      "p_uniform": 0.9992841789188744,
+      "certified_ours_exact_Q": true,
+      "Delta_cert_ours_times_beta0": 4.133577067481,
+      "N_steps": 2,
+      "certified_grover_2d": true,
+      "Delta_cert_grover_times_beta0": 0.6931471805599453
+    },
+    {
+      "defect_1_minus_Q0": 0.01,
+      "p_uniform": 0.9985652679487483,
+      "certified_ours_exact_Q": true,
+      "Delta_cert_ours_times_beta0": 3.434057342055,
+      "N_steps": 2,
+      "certified_grover_2d": true,
+      "Delta_cert_grover_times_beta0": 0.6931471805599453
+    },
+    {
+      "defect_1_minus_Q0": 0.02,
+      "p_uniform": 0.9971180597404834,
+      "certified_ours_exact_Q": true,
+      "Delta_cert_ours_times_beta0": 2.810804731153,
+      "N_steps": 3,
+      "certified_grover_2d": false,
+      "Delta_cert_grover_times_beta0": 0.0
+    },
+    {
+      "defect_1_minus_Q0": 0.035,
+      "p_uniform": 0.9949233332461086,
+      "certified_ours_exact_Q": true,
+      "Delta_cert_ours_times_beta0": 2.236234503519,
+      "N_steps": 3,
+      "certified_grover_2d": false,
+      "Delta_cert_grover_times_beta0": 0.0
+    },
+    {
+      "defect_1_minus_Q0": 0.05,
+      "p_uniform": 0.9926991680209853,
+      "certified_ours_exact_Q": true,
+      "Delta_cert_ours_times_beta0": 1.85558343473,
+      "N_steps": 3,
+      "certified_grover_2d": false,
+      "Delta_cert_grover_times_beta0": 0.0
+    },
+    {
+      "defect_1_minus_Q0": 0.08,
+      "p_uniform": 0.9881590045340174,
+      "certified_ours_exact_Q": true,
+      "Delta_cert_ours_times_beta0": 1.389695213807,
+      "N_steps": 4,
+      "certified_grover_2d": false,
+      "Delta_cert_grover_times_beta0": 0.0
+    },
+    {
+      "defect_1_minus_Q0": 0.12,
+      "p_uniform": 0.981903828034156,
+      "certified_ours_exact_Q": true,
+      "Delta_cert_ours_times_beta0": 0.894932711037,
+      "N_steps": 4,
+      "certified_grover_2d": false,
+      "Delta_cert_grover_times_beta0": 0.0
+    },
+    {
+      "defect_1_minus_Q0": 0.16,
+      "p_uniform": 0.9754000087505247,
+      "certified_ours_exact_Q": true,
+      "Delta_cert_ours_times_beta0": 0.512867150183,
+      "N_steps": 5,
+      "certified_grover_2d": false,
+      "Delta_cert_grover_times_beta0": 0.0
+    },
+    {
+      "defect_1_minus_Q0": 0.19,
+      "p_uniform": 0.9703455784651036,
+      "certified_ours_exact_Q": true,
+      "Delta_cert_ours_times_beta0": 0.193828483652,
+      "N_steps": 6,
+      "certified_grover_2d": false,
+      "Delta_cert_grover_times_beta0": 0.0
+    }
+  ],
+  "finite_sample_interval_bootstrap": [
+    {
+      "regime": "gapped_h2p0_sigma0p005",
+      "Delta_exact": 2.0,
+      "S_true": 0.9883262191627379,
+      "T_true": 0.998867849872196,
+      "sigma_stat": 0.005,
+      "radius_stat": 0.01288,
+      "n_trials": 200,
+      "certified_fraction": 1.0,
+      "soundness_fraction": 1.0,
+      "median_Delta_cert": 0.6291557937145
+    },
+    {
+      "regime": "gapped_h2p0_sigma0p015",
+      "Delta_exact": 2.0,
+      "S_true": 0.9883262191627379,
+      "T_true": 0.998867849872196,
+      "sigma_stat": 0.015,
+      "radius_stat": 0.03864,
+      "n_trials": 200,
+      "certified_fraction": 1.0,
+      "soundness_fraction": 1.0,
+      "median_Delta_cert": 0.397403070915
+    },
+    {
+      "regime": "near_boundary_S0p871_T0p871_sigma0p005",
+      "Delta_exact": 0.0,
+      "S_true": 0.871,
+      "T_true": 0.871,
+      "sigma_stat": 0.005,
+      "radius_stat": 0.01288,
+      "n_trials": 200,
+      "certified_fraction": 0.0,
+      "soundness_fraction": 1.0,
+      "median_Delta_cert": 0.0
+    },
+    {
+      "regime": "critical_h1p0_sigma0p015",
+      "Delta_exact": 0.0,
+      "S_true": 0.5671583510212856,
+      "T_true": 0.4547663732195586,
+      "sigma_stat": 0.015,
+      "radius_stat": 0.03864,
+      "n_trials": 200,
+      "certified_fraction": 0.0,
+      "soundness_fraction": 1.0,
+      "median_Delta_cert": 0.0
+    }
+  ]
+}

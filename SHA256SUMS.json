@@ -1,0 +1,124 @@
+{
+  "files": {
+    "LICENSE": {
+      "bytes": 1109,
+      "sha256": "ab426f9760214d6f596f16d040cf8b1e961925d04295608f6d151ccac90a89cb"
+    },
+    "README.md": {
+      "bytes": 3875,
+      "sha256": "878bae5360c867572012ca169dacafaac5446edf0c97f3f13e03c4bf1d7a5070"
+    },
+    "lean/AuditAxioms.lean": {
+      "bytes": 895,
+      "sha256": "c7570071c65b48154b82733739b3475939fbd772a8d95337ab90cdaa51b23c0c"
+    },
+    "lean/PurityBootstrap.lean": {
+      "bytes": 57871,
+      "sha256": "be5a0108220839e717ec9ddceb8ca18a88eb69bfdcc50a3b84c92162dc9d1aa9"
+    },
+    "lean/lakefile.toml": {
+      "bytes": 147,
+      "sha256": "1d16014945c4facf0724d149d0d3b3d41ef9a3b3423096aa3181debacdcbe27c"
+    },
+    "lean/lean-toolchain": {
+      "bytes": 25,
+      "sha256": "ca5f1f601d34c49079e38d7e7041eb0f2a9c227fbc1df0f404820069a052330c"
+    },
+    "paper/figures/fig1_basin_and_dim_thresholds.pdf": {
+      "bytes": 46121,
+      "sha256": "f5a3acc1de4ecdc5b117613c3065cb4119d8aaf08eb3dcb6254a26dd7dddcbe8"
+    },
+    "paper/figures/fig2_tfim_certified_gap_critical.pdf": {
+      "bytes": 39816,
+      "sha256": "3d2557158c90e7d613546514236e71afbe48180a136cc10e0956af1ee3d4ff15"
+    },
+    "paper/figures/fig3_interacting_rp_and_2d.pdf": {
+      "bytes": 42510,
+      "sha256": "04882d8da42353b9f5e9c21c54794535c11eb23c46c8c2b2d7df6a2123024690"
+    },
+    "paper/main.pdf": {
+      "bytes": 903304,
+      "sha256": "9ad1273ade53443893f2ed6656a31e75633eacf08efcabb98ca60356724e6b52"
+    },
+    "paper/main.tex": {
+      "bytes": 68498,
+      "sha256": "6e947e878ae50380508d3a8d0b0ea20e18d787da25d3a87c002af0595a7a0db5"
+    },
+    "paper/references.bib": {
+      "bytes": 6731,
+      "sha256": "0f2e815765aca147e7773a20b1ab24ad2dc8228c45354cff3069e6ed511da57e"
+    },
+    "results/experiment1_squaring_and_thresholds.json": {
+      "bytes": 6481,
+      "sha256": "980d580a0388be392b75027d46da24b299ee43f4599a08790468f9feb58b91f2"
+    },
+    "results/experiment2_tfim_phase_diagram.json": {
+      "bytes": 5744,
+      "sha256": "a84f378acbce722236ffcc44cb3da45f8a2d9f37bdcc94a626f8a6add6794d3b"
+    },
+    "results/experiment3_interacting_rp_and_ferro.json": {
+      "bytes": 8315,
+      "sha256": "a6e891ac0f7a609989cbfa11e2e25493e749c0913de8df575ba4e4e8e3bef10e"
+    },
+    "results/experiment4_2d_bilayer_and_finite_sample.json": {
+      "bytes": 4352,
+      "sha256": "be07a2b518b5d34e1c09ed7b17179d02600b3adaf4a38daad5426c5931bee0c8"
+    },
+    "results/rational_certificates/lattice2d_d2_defect0p050.cert.json": {
+      "bytes": 1615,
+      "sha256": "f4b53f127bc9d770aab56b2c3504d4ad9bb8ff87460f75860a552355ba3aac3d"
+    },
+    "results/rational_certificates/spin1_aniso_D6p0_L4_exact_gap.cert.json": {
+      "bytes": 1267,
+      "sha256": "2f6f3ddc42ad36e723c38ba1f0a2572166d5ac91bc76aba6f63034ad7d970056"
+    },
+    "results/rational_certificates/spinhalf_dimerized_d0p5_L6_exact_gap.cert.json": {
+      "bytes": 1200,
+      "sha256": "70998e79fbb05051f4cba818c161e4e68a99a12830b75b9e4c25e1a77802b52c"
+    },
+    "results/rational_certificates/tfim1d_L4_b2_h2p0_anisotropic.cert.json": {
+      "bytes": 1339,
+      "sha256": "63a6f43be2d8a461692f7e54f006a46632cfa0ed18bd6b4db4bc6675e4e33def"
+    },
+    "results/rational_certificates/tfim1d_L8_b4_h1p4.cert.json": {
+      "bytes": 1295,
+      "sha256": "5d807d14036ffdf6e3e24ed6370b9f005a2c42626d55ad7107523b290cdec262"
+    },
+    "results/rational_certificates/tfim1d_L8_b4_h2p5.cert.json": {
+      "bytes": 1000,
+      "sha256": "ebdf49b231585f9af2d5caaf7fd0d80a0f3c9341176034a7a81643eb370f8971"
+    },
+    "results/rational_certificates/tfim1d_ferro_h0p5_g2_twist.cert.json": {
+      "bytes": 1238,
+      "sha256": "d4e8f44c2204a9b1ae18ebfe6bdb8188b7c6e1d7c34c7efecfb8d0f9cde0da84"
+    },
+    "scripts/make_figures.py": {
+      "bytes": 8730,
+      "sha256": "f21ae34d891d08a89ae085590b91cce042c1aed167d1bb465bc3ff51a3ade992"
+    },
+    "scripts/run_all_experiments.py": {
+      "bytes": 25749,
+      "sha256": "2822736219b8f46553eff43fff972718d0f39b9e9becdcdf2ca248f08f047161"
+    },
+    "scripts/verify_all.py": {
+      "bytes": 5519,
+      "sha256": "3be0640484017f0c4c1836beec7bc87e3ca93d24be9d62dca79df94194bb0a07"
+    },
+    "src/__init__.py": {
+      "bytes": 35,
+      "sha256": "6c5250b6c873bfb1cd8acd8c2deb80c3b6649f736a4381d3d9c0f7b3688c5385"
+    },
+    "src/lattice_models.py": {
+      "bytes": 16529,
+      "sha256": "58620c57318c345c0abc7e672346911af3338f565d22984999134a3f9b7c6f15"
+    },
+    "src/purity_bootstrap.py": {
+      "bytes": 15009,
+      "sha256": "fc52f76b20f35dc96cfbffb2fcc3fb1fcd69bf2fd9289af7dd986ad5e83829e4"
+    },
+    "tests/test_suite.py": {
+      "bytes": 5250,
+      "sha256": "5e7fcd2532b7b872e57107e890b9e10f20666130fd7d259540d28e3b51cfa8aa"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+import PurityBootstrap
+
+#print axioms PurityBootstrap.squaring_inequality_k1
+#print axioms PurityBootstrap.squaring_inequality_k1_sharp
+#print axioms PurityBootstrap.squaring_inequality_ratio
+#print axioms PurityBootstrap.hStar_monotone
+#print axioms PurityBootstrap.dominant_weight_ge_purity
+#print axioms PurityBootstrap.purity_defect_ge_two_w0_tail
+#print axioms PurityBootstrap.sharp_discriminant_lower_bound
+#print axioms PurityBootstrap.sharp_gap_ratio_bound
+#print axioms PurityBootstrap.plaquette_exact_identity
+#print axioms PurityBootstrap.plaquette_lower_bound
+#print axioms PurityBootstrap.gs_1d_step_sound
+#print axioms PurityBootstrap.gs_1d_induction_sound
+#print axioms PurityBootstrap.gs_1d_monotone
+#print axioms PurityBootstrap.hypercube_Q_step_sound
+#print axioms PurityBootstrap.doubly_exponential_contraction
+#print axioms PurityBootstrap.intervening_length_purity_transfer
